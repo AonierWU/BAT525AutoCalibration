@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|c:\\users\\administrator\\source\\repos\\bat525autocalibration(20241016)\\equipmentchecck\\check\\class_calibration(\u7CBE\u8C03)\\updateui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\check\\class_calibration(\u7CBE\u8C03)\\updateui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|c:\\users\\administrator\\source\\repos\\bat525autocalibration(20241016)\\equipmentchecck\\check\\class_calibration(\u7CBE\u8C03)\\chgvoltcali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\check\\class_calibration(\u7CBE\u8C03)\\chgvoltcali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|c:\\users\\administrator\\source\\repos\\bat525autocalibration(20241016)\\equipmentchecck\\checktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\checktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateUi.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\UpdateUi.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\UpdateUi.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\UpdateUi.cs",
+              "RelativeToolTip": "EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\UpdateUi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:47:31.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\CheckTest.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\CheckTest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\CheckTest.cs",
+              "RelativeToolTip": "EquipmentChecck\\CheckTest.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwG0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:30:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmVerifyDevice.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\frmVerifyDevice.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\frmVerifyDevice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\frmVerifyDevice.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EquipmentChecck\\frmVerifyDevice.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:04:13.783Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVerifyDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\frmVerifyDevice.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\frmVerifyDevice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\frmVerifyDevice.cs",
+              "RelativeToolTip": "EquipmentChecck\\frmVerifyDevice.cs",
+              "ViewState": "AgIAALQRAAAAAAAAAADgv8oRAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:34:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChgVoltCali.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\ChgVoltCali.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\ChgVoltCali.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration(20241016)\\EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\ChgVoltCali.cs",
+              "RelativeToolTip": "EquipmentChecck\\Check\\Class_Calibration(\u7CBE\u8C03)\\ChgVoltCali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:41:39.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

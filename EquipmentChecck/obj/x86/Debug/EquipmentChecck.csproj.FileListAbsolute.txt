@@ -1,0 +1,233 @@
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\Interop.nisysapi.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.NI4882.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csprojAssemblyReference.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\Interop.nisysapi.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.Native.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csprojAssemblyReference.cache
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\Interop.nisysapi.dll
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+E:\SWD202107\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.1\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.NI4882.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csprojAssemblyReference.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\Interop.nisysapi.dll
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+G:\Project20200801\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csprojAssemblyReference.cache
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\Interop.nisysapi.dll
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+C:\Users\160510006\Desktop\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+E:\SWD2021\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\Interop.nisysapi.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.exe
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.pdb
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe.config
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.exe
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\EquipmentChecck.pdb
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.Common.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NationalInstruments.NI4882.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\2022Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -6.2\EquipmentChecck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.exe
+C:\Users\xiaoshou\Desktop\周末\EquipmentCheck -6.2\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.pdb
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.exe
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.pdb
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.exe
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.pdb
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.exe
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\SBT800点检软件.pdb
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+C:\Users\xiaoshou\Desktop\EquipmentCheck -SBT800-20230914\EquipmentCheck\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\SBT800点检软件.exe
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\SBT800点检软件.pdb
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\TestSystem_Pack.frmVerifyDevice.resources
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.Properties.Resources.resources
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.GenerateResource.cache
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.CopyComplete
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT825G点检软件.exe.config
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT825G点检软件.exe
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT825G点检软件.pdb
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\SBT825G点检软件.exe
+F:\SWD CODE\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\SBT825G点检软件.pdb
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\x86\Debug\PCM设备自动校准.exe.config
