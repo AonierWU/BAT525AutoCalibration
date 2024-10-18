@@ -1,0 +1,532 @@
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\SBT800点检软件.exe
+F:\2023Project\PACK\EquitmentChcek - 3.0\EquipmentCheck -SBT800\EquipmentCheck\EquipmentChecck\obj\Debug\SBT800点检软件.pdb
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\SBT800点检软件.exe
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\SBT800点检软件.pdb
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT800点检软件.exe.config
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT800点检软件.exe
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT800点检软件.pdb
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NationalInstruments.Common.xml
+F:\SWD CODE\Codes\Others\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+E:\刘鑫\PCM_BAT525_自动校准\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\SBT825G点检软件.exe.config
+E:\刘鑫\PCM_BAT525_自动校准\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\增加判断\EquipmentCheck -SBT825G(5)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\34401A\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G\EquipmentChecck\obj\Debug\EquipmentChecck.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\新建文件夹\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Yyyu\Desktop\BAT525G自动校准上位机\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -SBT825G(BAT525C)\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -SBT825G(BAT525C)\EquipmentChecck\obj\Debug\EquipmentChecck.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Desktop\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(1)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\校准软件\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\24342\Desktop\BAT525G自动校准上位机\EquipmentCheck -BAT525xAutoCali\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\校准软件\EquipmentCheck -BAT525xAutoCali(3)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\NPOI.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20240930)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\NPOI.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241008)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241009)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241009)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241009)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241009)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Desktop\BAT525 AutoCal\软件\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentCheck -BAT525xAutoCali(20241010)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\NPOI.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.Cache
+E:\刘鑫\BAT525G自动校准上位机开发\EquipmentCheck -BAT525xAutoCali(20241011)\EquipmentChecck\obj\Debug\EquipmentChecck.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\PC\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CopyComplete
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\24342\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\Equipmen.EA0337C2.Up2Date
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\NPOI.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe.config
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.ResolveComReference.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\TestSystem_Pack.frmVerifyDevice.resources
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\EquipmentChecck.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\EquipmentChecck.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\Equipmen.EA0337C2.Up2Date
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\PCM设备自动校准.exe
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration(20241016)\EquipmentChecck\obj\Debug\PCM设备自动校准.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\bin\Debug\System.Configuration.ConfigurationManager.xml

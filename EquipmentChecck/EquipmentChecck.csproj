@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{415BC7FF-513E-422D-8768-24CCA3F45893}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EquipmentChecck</RootNamespace>
+    <AssemblyName>PCM设备自动校准</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Color Palette.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Release\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\packages\SharpZipLib.1.4.2\lib\netstandard2.0\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.Common, Version=19.0.40.49152, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\NationalInstruments.Common\v4.0_19.0.40.49152__dc6ad606294fc298\NationalInstruments.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="NationalInstruments.NI4882, Version=13.0.40.159, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\NationalInstruments.NI4882\v4.0_13.0.40.159__dc6ad606294fc298\NationalInstruments.NI4882.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NPOI.2.5.1\lib\netstandard2.0\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NPOI.2.5.1\lib\netstandard2.0\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NPOI.2.5.1\lib\netstandard2.0\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NPOI.2.5.1\lib\netstandard2.0\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.ConfigurationManager">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.8.0.1\lib\net462\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoCaliOrCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check\BAT525C\BAT525C.cs" />
+    <Compile Include="Check\BAT525C\BAT525C_DeviceControl.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\IDRCali2.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\IDRCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\IDRCali3.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\IDRCali4.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\StCurnACali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\StCuruACali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\WriteSNCodeCali.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadLVChgCurrent.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadSNCode.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\CellCurRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\CellVoltRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\ChgVoltRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\CNTstCurNRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\CNTstCurPRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\DCIRRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\Dsg30ACurRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\Dsg3ACurRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\DCIRmoduleCheck.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\IDRmoduleCheck.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\WriteEEPROM.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\LoadPartCurRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\LoadPartVoltRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\NTCRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\NTCRoughCal2.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\NTCRoughCal3.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\NTCRoughCal4.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\OCVRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\ProVoltRoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\StCur2RoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\StCur3RoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\StCur4RoughCal.cs" />
+    <Compile Include="Check\Class_RoughCalibration%28粗调%29\StCurRoughCal.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\CellCurCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\CellVoltCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\ChgVoltCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\CNTstCurN.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\CNTstCurP.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\NTCCali2.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\NTCCali3.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\NTCCali4.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\OCVCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\ProVoltCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\StCur2Cali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\StCur3Cali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\StCur4Cali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\StCurCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\Dsg30ACurCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\Dsg3ACurCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\LoadPartCurCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\LoadPartVoltCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\NTCCali.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\DCIRCali.cs" />
+    <Compile Include="Check\SBT825G\SBT825_DeviceControl.cs" />
+    <Compile Include="Check\Class_Calibration%28精调%29\UpdateUi.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\CheckACIR.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\CheckFunction.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\CheckTestData.cs" />
+    <Compile Include="Check\Com.cs" />
+    <Compile Include="Check\Keysight.cs" />
+    <Compile Include="Check\Mycomm\MyComm.cs" />
+    <Compile Include="Check\Mycomm\MyEqmCmd.cs" />
+    <Compile Include="Check\Mycomm\MyRS232.cs" />
+    <Compile Include="Check\Mycomm\MyTcp.cs" />
+    <Compile Include="Check\NI.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadATR.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadCellCurr.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadCellVolt.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadChgCurrent.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadCNT.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadDsgCurrent.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadLVCurrent.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadLVVoltage.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadPinVolt.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadProVoltage.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadStaticCurr.cs" />
+    <Compile Include="Check\Class_Check%28点检%29\ReadVoltage.cs" />
+    <Compile Include="Check\SBT825G\CommunicationType.cs" />
+    <Compile Include="Check\SBT825G\ComplexCommand-C9.cs" />
+    <Compile Include="Check\SBT825G\MixAllCmds.cs" />
+    <Compile Include="Check\SBT825G\SBT825G.cs" />
+    <Compile Include="frmVerifyDevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerifyDevice.designer.cs">
+      <DependentUpon>frmVerifyDevice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelperClass\CHIni.cs" />
+    <Compile Include="HelperClass\HardInfo.cs" />
+    <Compile Include="HelperClass\LogHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmVerifyDevice.resx">
+      <DependentUpon>frmVerifyDevice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Color Palette.ico" />
+    <Content Include="swim_ring2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VisaComLib">
+      <Guid>{DB8CBF00-D6D3-11D4-AA51-00A024EE30BD}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>12</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|c:\\users\\administrator\\source\\repos\\bat525autocalibration\\equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\equipmentchecck\\check\\class_check(\u70B9\u68C0)\\readstaticcurr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\check\\class_check(\u70B9\u68C0)\\readstaticcurr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\equipmentchecck\\check\\class_check(\u70B9\u68C0)\\readatr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\check\\class_check(\u70B9\u68C0)\\readatr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\equipmentchecck\\checktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\checktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\equipmentchecck\\check\\com.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\check\\com.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{415BC7FF-513E-422D-8768-24CCA3F45893}|EquipmentChecck\\EquipmentChecck.csproj|solutionrelative:equipmentchecck\\frmverifydevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVerifyDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\frmVerifyDevice.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\frmVerifyDevice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\frmVerifyDevice.cs",
+              "RelativeToolTip": "EquipmentChecck\\frmVerifyDevice.cs",
+              "ViewState": "AgIAAJ4RAAAAAAAAAAAAwKwRAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:45:35.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadStaticCurr.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadStaticCurr.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadStaticCurr.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadStaticCurr.cs",
+              "RelativeToolTip": "EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadStaticCurr.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwIEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:44:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadATR.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadATR.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadATR.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadATR.cs",
+              "RelativeToolTip": "EquipmentChecck\\Check\\Class_Check(\u70B9\u68C0)\\ReadATR.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:44:06.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Com.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\Check\\Com.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\Check\\Com.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\Check\\Com.cs",
+              "RelativeToolTip": "EquipmentChecck\\Check\\Com.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAArwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:09:30.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\CheckTest.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\CheckTest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\CheckTest.cs",
+              "RelativeToolTip": "EquipmentChecck\\CheckTest.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwJAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:53:04.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVerifyDevice.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\frmVerifyDevice.cs",
+              "RelativeDocumentMoniker": "EquipmentChecck\\frmVerifyDevice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Source\\Repos\\BAT525AutoCalibration\\EquipmentChecck\\frmVerifyDevice.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EquipmentChecck\\frmVerifyDevice.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:51:17.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

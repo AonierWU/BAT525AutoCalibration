@@ -1,0 +1,214 @@
+08:17:42.852 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:17:42.856 Info: *Host Name:DESKTOP-NMLHP53
+08:17:42.938 Info: *OS Name:Microsoft Windows 10 专业版
+08:17:42.938 Info: *Is64BitOS:True
+08:17:43.975 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:17:43.984 Info: *Memory:7.75GB
+08:17:43.985 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:17:43.985 Info: ************************************
+08:18:10.167 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:18:10.168 Info: **W=>: C9 CC 05 00 65 
+08:18:13.280 Info: **R<=: C9 CC 06 00 00 64 
+08:18:13.282 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:18:13.371 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:18:13.538 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:18:13.623 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:18:13.623 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:18:13.718 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:18:13.718 Info: **W=>: C8 CC 80 57 00 00 94 
+08:18:13.814 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:18:13.862 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:18:13.955 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:18:13.971 Info: 断开连接*****************
+08:18:40.327 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:18:40.328 Info: **W=>: C9 CC 05 00 65 
+08:18:43.430 Info: **R<=: C9 CC 06 00 00 64 
+08:18:43.430 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:18:43.525 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:18:43.659 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:18:43.745 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:18:43.745 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:18:43.839 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:18:43.839 Info: **W=>: C8 CC 80 57 00 00 94 
+08:18:43.934 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:18:44.436 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:18:44.525 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:18:44.541 Info: 断开连接*****************
+08:26:12.631 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:26:12.636 Info: *Host Name:DESKTOP-NMLHP53
+08:26:12.739 Info: *OS Name:Microsoft Windows 10 专业版
+08:26:12.739 Info: *Is64BitOS:True
+08:26:13.771 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:26:13.820 Info: *Memory:7.75GB
+08:26:13.821 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:26:13.821 Info: ************************************
+08:27:41.686 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:27:48.476 Info: **W=>: C9 CC 05 00 65 
+08:27:51.587 Info: **R<=: C9 CC 06 00 00 64 
+08:27:52.391 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:27:52.483 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:28:38.349 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:28:38.442 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:28:38.458 Info: 断开连接*****************
+08:30:30.881 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:30:30.886 Info: *Host Name:DESKTOP-NMLHP53
+08:30:30.987 Info: *OS Name:Microsoft Windows 10 专业版
+08:30:30.988 Info: *Is64BitOS:True
+08:30:32.040 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:30:32.051 Info: *Memory:7.75GB
+08:30:32.051 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:30:32.051 Info: ************************************
+08:30:48.653 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:30:48.656 Info: **W=>: C9 CC 05 00 65 
+08:30:51.749 Info: **R<=: C9 CC 06 00 00 64 
+08:30:51.749 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:30:51.839 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:30:51.979 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:30:52.069 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:30:52.069 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:30:52.159 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:30:52.159 Info: **W=>: C8 CC 80 57 00 00 94 
+08:30:52.243 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:31:40.201 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:31:40.201 Info: *Host Name:DESKTOP-NMLHP53
+08:31:40.291 Info: *OS Name:Microsoft Windows 10 专业版
+08:31:40.291 Info: *Is64BitOS:True
+08:31:41.319 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:31:41.329 Info: *Memory:7.75GB
+08:31:41.329 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:31:41.329 Info: ************************************
+08:31:53.284 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:31:53.294 Info: **W=>: C9 CC 05 00 65 
+08:31:56.389 Info: **R<=: C9 CC 06 00 00 64 
+08:31:56.389 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:31:56.479 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:31:56.614 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:31:56.704 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:31:56.704 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:31:56.794 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:31:56.794 Info: **W=>: C8 CC 80 57 00 00 94 
+08:31:56.884 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:35:31.582 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:35:31.588 Info: *Host Name:DESKTOP-NMLHP53
+08:35:31.761 Info: *OS Name:Microsoft Windows 10 专业版
+08:35:31.762 Info: *Is64BitOS:True
+08:35:32.953 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:35:32.969 Info: *Memory:7.75GB
+08:35:32.970 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:35:32.970 Info: ************************************
+08:36:14.953 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:36:14.955 Info: **W=>: C9 CC 05 00 65 
+08:36:18.049 Info: **R<=: C9 CC 06 00 00 64 
+08:36:18.052 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:36:18.143 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:37:32.579 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:37:32.665 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:37:32.665 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:37:32.759 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:37:32.759 Info: **W=>: C8 CC 80 57 00 00 94 
+08:37:32.853 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:41:19.245 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:41:19.249 Info: *Host Name:DESKTOP-NMLHP53
+08:41:19.349 Info: *OS Name:Microsoft Windows 10 专业版
+08:41:19.349 Info: *Is64BitOS:True
+08:41:20.556 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:41:20.565 Info: *Memory:7.75GB
+08:41:20.565 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:41:20.565 Info: ************************************
+08:41:29.114 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:41:29.117 Info: **W=>: C9 CC 05 00 65 
+08:41:32.220 Info: **R<=: C9 CC 06 00 00 64 
+08:41:32.223 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:41:32.315 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:41:35.228 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:41:35.320 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:41:35.320 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:41:35.414 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:41:35.414 Info: **W=>: C8 CC 80 57 00 00 94 
+08:41:35.508 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:41:38.167 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:41:38.257 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:41:38.272 Info: 断开连接*****************
+08:50:07.290 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+08:50:07.295 Info: *Host Name:DESKTOP-NMLHP53
+08:50:07.402 Info: *OS Name:Microsoft Windows 10 专业版
+08:50:07.402 Info: *Is64BitOS:True
+08:50:08.445 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+08:50:08.456 Info: *Memory:7.75GB
+08:50:08.456 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+08:50:08.456 Info: ************************************
+08:50:17.587 Info: 连接: COM55-115200-8-Parity.None-StopsBits.One
+08:50:17.589 Info: **W=>: C9 CC 05 00 65 
+08:50:20.707 Info: **R<=: C9 CC 06 00 00 64 
+08:50:20.710 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:50:20.803 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:50:20.943 Info: **W=>: C8 CC 60 11 00 00 FA 
+08:50:21.038 Info: **R=>: C8 CC 60 11 00 00 FA 
+08:50:21.038 Info: **W=>: C8 CC 60 12 00 00 F9 
+08:50:21.133 Info: **R=>: C8 CC 60 12 00 00 F9 
+08:50:21.133 Info: **W=>: C8 CC 80 57 00 00 94 
+08:50:21.229 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+08:50:21.753 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+08:50:21.840 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+08:50:21.856 Info: 断开连接*****************
+14:48:03.315 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+14:48:03.319 Info: *Host Name:DESKTOP-NMLHP53
+14:48:03.419 Info: *OS Name:Microsoft Windows 10 专业版
+14:48:03.419 Info: *Is64BitOS:True
+14:48:04.603 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+14:48:04.612 Info: *Memory:7.75GB
+14:48:04.612 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+14:48:04.612 Info: ************************************
+14:48:11.843: 对端口“COM55”的访问被拒绝。
+System.UnauthorizedAccessException
+System
+Void WinIOError(Int32, System.String)
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 TestSystem_Pack.RS232.Connect() 位置 C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\Check\Mycomm\MyRS232.cs:行号 67
+
+14:48:13.163: 端口被关闭。
+System.InvalidOperationException
+System
+Void DiscardInBuffer()
+   在 System.IO.Ports.SerialPort.DiscardInBuffer()
+   在 TestSystem_Pack.RS232.SendData(Byte[] buffer, Int32 count) 位置 C:\Users\Administrator\Source\Repos\BAT525AutoCalibration\EquipmentChecck\Check\Mycomm\MyRS232.cs:行号 111
+
+14:48:13.163 Info: 断开连接*****************
+14:48:16.880 Info: 连接: COM56-115200-8-Parity.None-StopsBits.One
+14:48:16.881 Info: **W=>: C9 CC 05 00 65 
+14:48:19.976 Info: **R<=: C9 CC 06 00 00 64 
+14:48:19.977 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+14:48:20.072 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+14:48:20.217 Info: **W=>: C8 CC 60 11 00 00 FA 
+14:48:20.308 Info: **R=>: C8 CC 60 11 00 00 FA 
+14:48:20.308 Info: **W=>: C8 CC 60 12 00 00 F9 
+14:48:20.402 Info: **R=>: C8 CC 60 12 00 00 F9 
+14:48:20.402 Info: **W=>: C8 CC 80 57 00 00 94 
+14:48:20.497 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+14:48:20.911 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+14:48:21.001 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+14:48:21.017 Info: 断开连接*****************
+14:50:17.783 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+14:50:17.787 Info: *Host Name:DESKTOP-NMLHP53
+14:50:17.907 Info: *OS Name:Microsoft Windows 10 专业版
+14:50:17.907 Info: *Is64BitOS:True
+14:50:19.016 Info: *Cpu Name:Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz
+14:50:19.026 Info: *Memory:7.75GB
+14:50:19.026 Info: *Drives:C:\,D:\,E:\,F:\,H:\
+14:50:19.026 Info: ************************************
+14:50:25.376 Info: 连接: COM56-115200-8-Parity.None-StopsBits.One
+14:50:25.377 Info: **W=>: C9 CC 05 00 65 
+14:50:28.471 Info: **R<=: C9 CC 06 00 00 64 
+14:50:28.473 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+14:50:28.566 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+14:50:28.705 Info: **W=>: C8 CC 60 11 00 00 FA 
+14:50:28.801 Info: **R=>: C8 CC 60 11 00 00 FA 
+14:50:28.801 Info: **W=>: C8 CC 60 12 00 00 F9 
+14:50:28.895 Info: **R=>: C8 CC 60 12 00 00 F9 
+14:50:28.895 Info: **W=>: C8 CC 80 57 00 00 94 
+14:50:28.989 Info: **R<=: C8 CC 80 57 42 41 54 35 32 35 48 32 30 32 34 31 30 30 38 30 36 36 36 30 
+14:50:29.426 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+14:50:29.509 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+14:50:29.509 Info: 断开连接*****************

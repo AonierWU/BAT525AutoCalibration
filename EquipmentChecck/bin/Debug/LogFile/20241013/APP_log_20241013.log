@@ -1,0 +1,66 @@
+12:56:25.270 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+12:56:25.270 Info: *Host Name:DESKTOP-NV05A4D
+12:56:25.360 Info: *OS Name:Microsoft Windows 11 专业版
+12:56:25.360 Info: *Is64BitOS:True
+12:56:26.464 Info: *Cpu Name:12th Gen Intel(R) Core(TM) i5-12400
+12:56:26.484 Info: *Memory:15.80GB
+12:56:26.484 Info: *Drives:C:\,D:\,E:\
+12:56:26.484 Info: ************************************
+13:41:18.930 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+13:41:18.940 Info: *Host Name:DESKTOP-NV05A4D
+13:41:19.062 Info: *OS Name:Microsoft Windows 11 专业版
+13:41:19.062 Info: *Is64BitOS:True
+13:41:20.174 Info: *Cpu Name:12th Gen Intel(R) Core(TM) i5-12400
+13:41:20.184 Info: *Memory:15.80GB
+13:41:20.184 Info: *Drives:C:\,D:\,E:\
+13:41:20.184 Info: ************************************
+15:44:33.984 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+15:44:33.994 Info: *Host Name:DESKTOP-NV05A4D
+15:44:34.097 Info: *OS Name:Microsoft Windows 11 专业版
+15:44:34.097 Info: *Is64BitOS:True
+15:44:35.222 Info: *Cpu Name:12th Gen Intel(R) Core(TM) i5-12400
+15:44:35.232 Info: *Memory:15.80GB
+15:44:35.232 Info: *Drives:C:\,D:\,E:\
+15:44:35.232 Info: ************************************
+15:44:46.066 Info: 连接: COM1-115200-8-Parity.None-StopsBits.One
+15:44:46.066 Info: **W=>: C9 CC 05 00 65 
+15:45:19.448 Info: 断开连接*****************
+15:52:58.011 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+15:52:58.017 Info: *Host Name:DESKTOP-NV05A4D
+15:52:58.075 Info: *OS Name:Microsoft Windows 11 专业版
+15:52:58.075 Info: *Is64BitOS:True
+15:52:59.208 Info: *Cpu Name:12th Gen Intel(R) Core(TM) i5-12400
+15:52:59.221 Info: *Memory:15.80GB
+15:52:59.222 Info: *Drives:C:\,D:\,E:\
+15:52:59.222 Info: ************************************
+15:53:12.644 Info: 连接: COM10-115200-8-Parity.None-StopsBits.One
+15:53:12.646 Info: **W=>: C9 CC 05 00 65 
+15:53:15.732 Info: **R<=: C9 CC 06 00 00 64 
+15:53:15.732 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+15:53:15.823 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+15:53:25.088 Info: 断开连接*****************
+15:53:42.195 Info: 连接: COM10-115200-8-Parity.None-StopsBits.One
+15:53:42.195 Info: **W=>: C9 CC 05 00 65 
+15:53:45.295 Info: **R<=: C9 CC 06 00 00 64 
+15:53:45.295 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+15:53:45.366 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+15:57:10.356 Info: *Software Version:BAT525系列设备自动校准  Ver1.0 [20241008]
+15:57:10.356 Info: *Host Name:DESKTOP-NV05A4D
+15:57:10.455 Info: *OS Name:Microsoft Windows 11 专业版
+15:57:10.455 Info: *Is64BitOS:True
+15:57:11.567 Info: *Cpu Name:12th Gen Intel(R) Core(TM) i5-12400
+15:57:11.577 Info: *Memory:15.80GB
+15:57:11.577 Info: *Drives:C:\,D:\,E:\
+15:57:11.577 Info: ************************************
+15:57:21.634 Info: 连接: COM10-115200-8-Parity.None-StopsBits.One
+15:57:21.634 Info: **W=>: C9 CC 05 00 65 
+15:57:53.943 Info: 断开连接*****************
+15:57:59.746 Info: 连接: COM10-115200-8-Parity.None-StopsBits.One
+15:57:59.746 Info: **W=>: C9 CC 05 00 65 
+15:58:31.830 Info: 断开连接*****************
+15:58:37.875 Info: 连接: COM10-115200-8-Parity.None-StopsBits.One
+15:58:37.875 Info: **W=>: C9 CC 05 00 65 
+15:58:40.973 Info: **R<=: C9 CC 06 00 00 64 
+15:58:40.973 Info: **W=>: CF CC 08 70 FE 00 00 EE 
+15:58:41.064 Info: **R=>: CF CC 08 70 FE 00 00 EE 
+15:59:00.304 Info: 断开连接*****************
